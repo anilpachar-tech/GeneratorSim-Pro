@@ -123,12 +123,12 @@ GeneratorSim Pro is an industrial-style generator simulation dashboard built usi
 - Power System Learning  
 - Lab Simulation  
 
-## For live Deno Use this link - 
+## For live Deno Use this link - https://generatorsim-pro.streamlit.app/
 ---
 
 ## 📌 Author
 
-Anil Pachar , Devesh Godara & Shivam Kumar 
+Anil Pachar & Devesh Godara
 Electrical Engineering Student  
 
 ---
